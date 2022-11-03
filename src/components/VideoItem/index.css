@@ -1,0 +1,40 @@
+.song-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+}
+.image {
+  height: 100px;
+  width: 160px;
+}
+.duration-delete {
+  display: flex;
+}
+.del-btn {
+  height: 30px;
+  width: 35px;
+  margin-top: 21px;
+  margin-left: 10px;
+  background-color: transparent;
+  color: #ffffff;
+  border: 0px;
+}
+.name {
+  color: #ffffff;
+  font-size: 20px;
+}
+.genre {
+  color: #3b82f6;
+  font-size: 20px;
+}
+.font {
+  font-size: 20px;
+}
+.card {
+  display: flex;
+}
+.card-1 {
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
